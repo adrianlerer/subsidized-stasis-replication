@@ -480,9 +480,9 @@ Kornai, J. (1980). *Economics of Shortage.* North-Holland.
 
 Kornai, J. (2014). "The Soft Budget Constraint." *Acta Oeconomica*, 64(S1): 25–79.
 
-Lerer, I.A. (2025a). "Argentina's Fiscal Lock-in: Tax Reform as Extended Phenotype." SSRN Working Paper 5635152.
+Lerer, I.A. (2025a). "Argentina's Fiscal Lock-in: Tax Reform as Extended Phenotype." Zenodo. https://doi.org/10.5281/zenodo.14538012.
 
-Lerer, I.A. (2025b). "Climbing Mount Improbable: A Viable Path for Argentina's Fiscal Reform through IMF-Backed Gradual Transition." SSRN Working Paper 5645070.
+Lerer, I.A. (2025b). "Climbing Mount Improbable: A Viable Path for Argentina's Fiscal Reform through IMF-Backed Gradual Transition." Zenodo. https://doi.org/10.5281/zenodo.14538013.
 
 Oates, W.E. (1972). *Fiscal Federalism.* Harcourt Brace Jovanovich.
 
